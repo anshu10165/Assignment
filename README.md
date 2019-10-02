@@ -22,6 +22,7 @@
   * The ImageCell displaying image has again its associated viewModel(```ImageCellViewModel```) which contains the url of image to display.
   * Project contains separated ```Services``` group to take care of the networking part.
   * Unit-Tests coverage has been added for ViewModels, ViewControllers and Network Layer.
+  * Image-Caching has been take care of using ```NSCache```.
 
 
   ![Screenshot](https://github.com/anshu10165/Images/blob/master/Screenshot%202019-10-02%20at%2012.24.18%20PM.png)
